@@ -21,7 +21,7 @@ A modern AI text detection system using pre-trained Hugging Face models to disti
 ### 0. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vikas-u-rao/ai-text-detection
 cd ai_text_detection
 ```
 
@@ -149,3 +149,4 @@ This project is released under the MIT License. See LICENSE file for details.
 ---
 
 **Happy Detecting! 🚀**
+
