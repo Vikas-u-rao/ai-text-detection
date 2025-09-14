@@ -1,0 +1,6 @@
+transformers>=4.30.0
+setfit>=0.7.0
+scikit-learn>=1.2.0
+gradio>=3.50.0
+pandas>=1.5.0
+numpy>=1.23.0
